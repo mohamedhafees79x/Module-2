@@ -21,7 +21,8 @@ b=int(input())
 print("modulo is", result(a, b))
 ```
 ## Output
-![Uploading image.png…]()
+<img width="824" height="380" alt="image" src="https://github.com/user-attachments/assets/dd932de9-d7f6-4f6f-8873-3075051a8962" />
+
 
 ## Result
 The program to return two values modulo is successful.
